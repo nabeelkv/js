@@ -1,7 +1,7 @@
 var schooblyAds = [
  
    { 
-     adImage: `https://www.photojobz.com/hosted/images/6e/87624686c849a4a431b54ce4539a51/Story.image.text.6.2-2-.jpg`,
+     adImage: `https://i.udemycdn.com/course/240x135/914200_388c_3.jpg`,
      adLink: `http://bit.ly/33bcoUe`,
      adTitle: `Earn From Your Photos!`,
      adNiche: `Photography`,
@@ -17,7 +17,7 @@ var schooblyAds = [
      adCTAText: `Learn More`
    },
    { 
-     adImage: `https://1.bp.blogspot.com/-Z0OZ1XjRKMA/XmeX2vOtU-I/AAAAAAAAARI/6WiTAbKNDyMttW2Zuckn6ZtkT0iUQIxywCLcBGAsYHQ/s1600/tutors.png`,
+     adImage: `https://i.udemycdn.com/course/240x135/322302_1979_2.jpg`,
      adLink: `https://099bdip41bp89r7h-jvnu8qc6l.hop.clickbank.net/`,
      adTitle: `Tutor Jobs Online | Get Paid To Teach Online`,
      adNiche: `Teacher Training`,
@@ -32,7 +32,7 @@ var schooblyAds = [
      adCTAText: `Learn More`
    },
    { 
-     adImage: `https://www.sloganseller.com/wp-content/uploads/2014/11/SloganGirl2.jpg`,
+     adImage: `https://i.udemycdn.com/course/240x135/869632_d1f2_2.jpg`,
      adLink: `http://bit.ly/2W15T4M`,
      adTitle: `Slogan Seller - Turn A Phase Into Cash`,
      adNiche: `Home Business`,
