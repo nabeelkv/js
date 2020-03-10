@@ -6,7 +6,7 @@ var schooblyAds = [
      adTitle: `Earn From Your Photos!`,
      adNiche: `Photography`,
      adLanding: `photojobz.co`,
-     adCTAText: `Join Now`
+     adCTAText: `Learn More`
    },
    { 
      adImage: `https://miro.medium.com/max/2000/1*sqMHMa6-2uoWTRkK3EIhHg.jpeg`,
@@ -22,7 +22,7 @@ var schooblyAds = [
      adTitle: `Tutor Jobs Online | Get Paid To Teach Online`,
      adNiche: `Teacher Training`,
      adLanding: `tutorjobsonline.com`,
-     adCTAText: `Get 7 Day Trial`
+     adCTAText: `Learn More`
    },   
     { 
      adImage: `https://i.udemycdn.com/course/240x135/2687810_8991_3.jpg`,
@@ -48,7 +48,7 @@ var schooblyAds = [
      adLink: `http://bit.ly/2W2srlI`,
      adTitle: `Get Paid To Use Facebook, Twitter And Youtube`,
      adNiche: `Home Business`,
-     adCTAText: `Join Now`
+     adCTAText: `Learn More`
    },
    { 
      adImage: `https://i.udemycdn.com/course/240x135/313360_0668_3.jpg`,
