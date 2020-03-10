@@ -102,7 +102,7 @@ var schooblyAds = [
      adImage: `https://i.udemycdn.com/course/240x135/487450_afe7_2.jpg`,
      adLink: `https://4fe62mn9u9m99r97ult656rnee.hop.clickbank.net/`,
      adTitle: `Host Unlimited Sites From $3 Per Year!`,
-     adNiche: `Web Design`,
+     adNiche: `Web Hosting`,
      adCTAText: `Learn More`
    }
 
