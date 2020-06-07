@@ -29,6 +29,5 @@
   font-size:14px;
   color:grey;
   text-align:center;
-  overflow: hidden;
-  border-top: 1px inset grey;
+  border: 1px solid grey;
 }
