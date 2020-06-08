@@ -59,13 +59,13 @@
 } 
 
 .special {
-    background: #e6f4ea;
-    border-color: #137333;
-    color: #212124;
     border-left: 4px solid;
     border-radius: 4px;
     margin: 2em 0;
     padding: .5em 1em;
+    background: #e6f4ea;
+    border-color: #137333;
+    color: #212124;
 }
 
 .code {
@@ -94,12 +94,12 @@
 }
 
 .warning {
-    background: #fef7e0;
-    border-color: #ea8600;
-    color: #212124;
     border-left: 4px solid;
     border-radius: 4px;
     margin: 2em 0;
     padding: .5em 1em;
+    background: #fef7e0;
+    border-color: #ea8600;
+    color: #212124;
    
 }
