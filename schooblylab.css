@@ -103,3 +103,14 @@
     color: #212124;
    
 }
+
+td {
+margin: 0;
+    vertical-align: top;
+    border-bottom: 1px solid #CCC;
+    padding: 8px;
+}
+
+.post-thumb {
+  display:none;
+}
