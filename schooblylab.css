@@ -5,16 +5,16 @@
    display:none;
 }
 
-#schooblyLab {font-size:15px;line-height:30px;color:black;}
-#schooblyLab a{text-decoration:underline}
-#schooblyLab h3 {margin-top:30px;margin-bottom:10px;}
-#schooblyLab li {
+#schooblyProject {font-size:15px;line-height:30px;color:black;}
+#schooblyProject a{text-decoration:underline}
+#schooblyProject h3 {margin-top:30px;margin-bottom:10px;}
+#schooblyProject li {
     list-style:none;background-image: url(https://4.bp.blogspot.com/-QlhqjzPyBRw/XtzPg_3NrPI/AAAAAAAAAW0/-QC7cIpktXEo4VgwKfZulqTrlqE-MZrLgCLcBGAsYHQ/s1600/li.png);
     background-repeat: no-repeat;
     background-size: 20px;
     padding-left: 24px;
     margin-left: 16px;}
-#schooblyLab li.wul{list-style:none;background-image: url(https://4.bp.blogspot.com/-c2zbeRLl8Oc/XtzLrHSBJgI/AAAAAAAAAWE/VHOEYmtsk98OkDB5SMKZTFtPuLVh7WicACLcBGAsYHQ/s1600/checked.png);
+#schooblyProject li.wul{list-style:none;background-image: url(https://4.bp.blogspot.com/-c2zbeRLl8Oc/XtzLrHSBJgI/AAAAAAAAAWE/VHOEYmtsk98OkDB5SMKZTFtPuLVh7WicACLcBGAsYHQ/s1600/checked.png);
     background-repeat: no-repeat;
     background-size: 20px;
     padding-left: 24px;
