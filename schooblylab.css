@@ -77,3 +77,28 @@
     background-color: #e8eaed;
     padding: .1em .3em;
 }
+
+.com {
+   color: #bdc1c6;
+    font-style: italic;
+}
+
+.str {
+  color: #34a853;
+}
+
+#schooblyLab ol li {
+    list-style-type: decimal;
+    background: none;
+    padding-left: 0px;
+}
+
+.warning {
+    background: #fef7e0;
+    border-color: #ea8600;
+    color: #212124;
+    border-left: 4px solid;
+    border-radius: 4px;
+    margin: 2em 0;
+    padding: .5em 1em;
+}
