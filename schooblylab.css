@@ -87,6 +87,19 @@
   color: #34a853;
 }
 
+.kwd {
+    color: #F538A0;
+}
+.typ {
+    color: #24C1E0;
+}
+.pun {
+    color: #F8F9FA;
+}
+.lit {
+    color: #4285F4;
+}
+
 #schooblyLab ol li {
     list-style-type: decimal;
     background: none;
